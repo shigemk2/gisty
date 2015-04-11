@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.version = "0.2.8"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["swdyh + shigemk2"]
+  s.authors = ["swdyh"]
   s.date = "2015-01-25"
   s.description = "yet another command line client for gist. Gisty uses Github API V3 via OAuth2."
   s.email = "http://mailhide.recaptcha.net/d?k=01AhB7crgrlHptVaYRD0oPwA==&c=L_iqOZrGmo6hcGpPTFg1QYnjr-WpAStyQ4Y8ShfgOHs="
